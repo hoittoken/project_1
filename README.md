@@ -1,6 +1,6 @@
 ## ОПИСАНИЕ ЗАДАЧИ
 
-**Есть** база резюме, выгруженная с сайта поиска вакансий hh.ru.[Файл с исходными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+**Есть** база резюме, выгруженная с сайта поиска вакансий hh.ru. [Файл с исходными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
 
 **Проблематика:** часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 
