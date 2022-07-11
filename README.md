@@ -1,3 +1,5 @@
+## Проект №1 в рамках обучения профессии Data Science от Skill Factory
+
 ## ОПИСАНИЕ ЗАДАЧИ
 
 **Есть база резюме**, выгруженная с сайта поиска вакансий hh.ru. [Файл с исходными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
